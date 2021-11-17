@@ -1,4 +1,4 @@
-# Homework 7
+# Homework 6
 
 In this homework, you will find the questions in [answers.ipynb](answers.ipynb).  This is convenient for displaying math equations. You can use [answers.ipynb](answers.ipynb) for written answers and running code/displaying plots.
 
