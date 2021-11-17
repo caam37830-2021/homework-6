@@ -17,7 +17,7 @@ The following rubric will be used for grading.
 
 |   | Correctness | Style | Total |
 |:-:|:-:|:-:|:-:|
-| Problem 0 |  |  | /25 |
-| Problem 1 |  |  | /35 |
-| Problem 2 |  |  | /20 |
-| Problem 3 |  |  | /20 |
+| Problem 0 | 23 | 2 | /25 |
+| Problem 1 | 33 | 2 | /35 |
+| Problem 2 | 18 | 2 | /20 |
+| Problem 3 | 18 | 2 | /20 |
